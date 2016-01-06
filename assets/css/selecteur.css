@@ -1,0 +1,40 @@
+
+.master img {
+
+	max-width: 45%;
+	height: auto;
+	}
+
+
+.master div {
+	
+	float: left;
+	border:11px solid white;
+	width: 47%;
+	height: 50%;
+	background:#98B98B;
+
+}
+
+.master p {
+width: 55%;
+float:right;
+margin-top: -170px;
+margin-right: -10px;
+}
+
+.master h2 {
+width: 45%;
+margin-top: 10px;
+margin-left: 10px;
+
+}
+
+.master h3 {
+	width: 49%;
+	float:right;
+	color:white;
+	text-transform: uppercase;
+	margin-top: 5px;
+	margin-right: 25px;
+}
